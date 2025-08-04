@@ -2,7 +2,7 @@
 
 An application that lets you chat with your entire email archive. Ask questions in natural language and get intelligent, summarized answers from your own MBOX files, with full privacy and local processing.
 
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhoZHprd2o4cjE3c3JxNmdsajF6cmp5MjZ5a2p6NHlhN3VkcGJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6gDSdED1B5wjC2Gc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhoZHprd2o4cjE3c3JxNmdsajF6cmp5MjZ5a2p6NHlhN3VkcGJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6gDSdED1B5wjC2Gc/giphy.gif)
 
 ---
 

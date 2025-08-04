@@ -82,7 +82,7 @@ You need to sign up for two services. Both offer free starting credits that are 
 
 #### Voyage AI
 
-1.  Go to the [Voyage AI Dashboard](https://dash.voyageai.com/) and sign up.
+1.  Go to the [Voyage AI Dashboard](https://dashboard.voyageai.com) and sign up.
 2.  Navigate to the **API Keys** section from the left-hand menu.
 3.  Your default API key will be visible there. Copy it.
 

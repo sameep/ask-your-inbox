@@ -1,0 +1,25 @@
+# This file lists the Python packages required to run the "Ask Your Inbox" application.
+# Install them all at once by running: pip install -r requirements.txt
+
+# Core web framework for the user interface
+streamlit
+
+# Official Python client for the Claude AI API
+anthropic
+
+# Official Python client for the Voyage AI Embeddings API
+voyageai
+
+# Fundamental package for numerical operations, especially for embeddings
+numpy
+
+# Used for calculating cosine similarity between embeddings
+scikit-learn
+
+# Used for creating smart progress bars during data processing
+tqdm
+
+# Powerful library for parsing dates and times from email headers
+python-dateutil
+
+pandas
